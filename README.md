@@ -4,7 +4,9 @@
 💡 Passionate about Full-Stack Development, AI/ML, and Open Source  
 🌱 Currently exploring backend systems and real-world AI projects  
 📫 Reach me at: rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028) | [Resume](https://rsccpp.github.io/resume)
+🔗 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028)
+
+// [Resume](https://rsccpp.github.io/resume)
 
 ---
 
@@ -52,5 +54,5 @@
 Feel free to check out my work or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028)
-- 📄 [Resume](https://rsccpp.github.io/resume)
+// - 📄 [Resume](https://rsccpp.github.io/resume)
 - 📧 Email: [rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com ] 
