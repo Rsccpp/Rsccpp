@@ -6,8 +6,6 @@
 📫 Reach me at: rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028)
 
-// [Resume](https://rsccpp.github.io/resume)
-
 ---
 
 ## 🚀 Tech Stack
@@ -54,5 +52,4 @@
 Feel free to check out my work or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028)
-// - 📄 [Resume](https://rsccpp.github.io/resume)
 - 📧 Email: [rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com ] 
