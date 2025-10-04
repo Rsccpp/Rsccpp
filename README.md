@@ -19,17 +19,21 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [TextUtils Website](https://github.com/Rsccpp/TextUtils-Website)
-> A modern and responsive website that provides text manipulation tools using **JavaScript**.
+### 🔹 [Hospital Management System Project](https://github.com/Rsccpp/Hospital-Management-System.git)
+> A comprehensive system to manage patients, doctors, and appointments for a hospital. This project aims to streamline hospital operations and improve patient care through a centralized digital platform.
 
-### 🔹 [Supermarket Billing System](https://github.com/Rsccpp/Supermarket-Billing-System)
-> A simple **C++ console application** to generate itemized bills, manage items, and track totals efficiently.
+### 🔹 [Banking System](https://github.com/Rsccpp/Banking-System.git)
+> This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
-### 🔹 [Log Classification System](https://github.com/Rsccpp/Log_Classification_System)
-> Developed in **Jupyter Notebook** using machine learning to classify log types and detect anomalies.
+### 🔹 [InsuraSense](https://github.com/Rsccpp/InsuraSense.git)
+> InsuraSense is a Streamlit-based application designed to analyze and predict insurance-related data. It leverages Python's data processing and machine learning libraries to provide quick and accurate predictions in an interactive web interface.
 
-### 🔹 [Calculator with Swing](https://github.com/Rsccpp/Calculator-with-Swing-Class)
-> A GUI-based calculator built using **Java Swing** for basic arithmetic operations.
+### 🔹 [Movie Mingle](https://github.com/Rsccpp/Movie-Mingle.git)
+> Movie Mingle is a movie recommendation system where users can simply enter the name of a movie and receive personalized, similar movie suggestions using natural language processing.
+
+### 🔹 [Simon Game](https://github.com/Rsccpp/Simon-Game.git)
+> A fun and interactive Simon Says game built using HTML, CSS, and JavaScript.
+Test your memory skills by following the sequence of colors and repeating them correctly!
 
 ---
 
@@ -53,3 +57,5 @@ Feel free to check out my work or connect with me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohitsingh0028)
 - 📧 Email: [rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com ] 
+
+---
