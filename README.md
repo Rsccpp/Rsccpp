@@ -45,7 +45,7 @@ Test your memory skills by following the sequence of colors and repeating them c
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsccpp&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10&count_private=true)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=rsccpp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=rsccpp&theme=tokyonight&hide_border=true&border_radius=10)
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsccpp&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10)
