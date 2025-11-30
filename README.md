@@ -37,21 +37,6 @@ Test your memory skills by following the sequence of colors and repeating them c
 
 ---
 
-## 📊 GitHub Stats & Languages
-
-<div align="center">
-
-<!-- Main GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsccpp&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&border_radius=10&count_private=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsccpp&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10)
-
-</div>
-
-
----
-
 ## 📌 Currently Working On
 
 - 🔬 Improving my AI skills with real-world datasets
