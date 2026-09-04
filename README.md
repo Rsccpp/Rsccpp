@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohit Singh!
 
-🎓 3rd Year CSE (AI & ML) Student  
+🎓 4th Year CSE (AI & ML) Student  
 💡 Passionate about Full-Stack Development, AI/ML, and Open Source  
 🌱 Currently exploring backend systems and real-world AI projects  
 📫 Reach me at: rohitsinghsstc2812@gmail.com | rohitkusingh2803@gmail.com 
