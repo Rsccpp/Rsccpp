@@ -87,13 +87,13 @@ Movie Mingle is a movie recommendation system where users can simply enter the n
 
 An interactive healthcare insurance prediction application built with Python and Streamlit, leveraging machine learning to estimate insurance premiums.
 
-🔗 📂 **[Source Code](https://github.com/Rsccpp/InsuraSense)**
+📂 **[Source Code](https://github.com/Rsccpp/InsuraSense)**
 
 ### 4. 🚀 CareerCatalyst
 
 An AI-powered Resume Analyzer and Job Matcher that helps job seekers evaluate their resumes against job descriptions using Natural Language Processing (NLP). 
 
-🔗 📂 **[Source Code](https://github.com/Rsccpp/CareerCatalyst)**
+📂 **[Source Code](https://github.com/Rsccpp/CareerCatalyst)**
 
 ### 5. 🎮 Simon Says
 
