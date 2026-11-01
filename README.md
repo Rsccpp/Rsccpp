@@ -106,8 +106,7 @@ An interactive memory-based game developed using HTML, CSS, and JavaScript, feat
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rsccpp&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsccpp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Rsccpp&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
