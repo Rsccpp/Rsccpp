@@ -77,7 +77,7 @@ A full-stack Airbnb Clone web application built using Node.js, Express, MongoDB 
 
 🔗 **[Live Demo](https://wanderland-9n7t.onrender.com/)** | 📂 **[Source Code](https://github.com/Rsccpp/Wanderland)**
 
-### 2. 🏦 Movie Mingle
+### 2. 🎬 Movie Mingle
 
 Movie Mingle is a movie recommendation system where users can simply enter the name of a movie and receive personalized, similar movie suggestions using natural language processing.
 
@@ -89,7 +89,7 @@ An interactive healthcare insurance prediction application built with Python and
 
 🔗 📂 **[Source Code](https://github.com/Rsccpp/InsuraSense)**
 
-### 4. 🎬 CareerCatalyst
+### 4. 🏦 CareerCatalyst
 
 An AI-powered Resume Analyzer and Job Matcher that helps job seekers evaluate their resumes against job descriptions using Natural Language Processing (NLP). 
 
