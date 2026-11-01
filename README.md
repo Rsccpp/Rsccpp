@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/rohitsingh0028">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:rohitsinghsstc2812@gmail.com">
+  <a href="mailto:rohitkusingh2803@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Rsccpp">
@@ -32,7 +32,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
 </p>
 
 ### 🌐 Frontend Development
@@ -44,7 +44,7 @@
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Databases
@@ -71,25 +71,35 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🏥 [Hospital Management System](https://github.com/Rsccpp/Hospital-Management-System)
+### 1. 🏥 [WanderLand]
 
-A centralized hospital management application designed to streamline patient records, doctor management, and appointment scheduling.
+A full-stack Airbnb Clone web application built using Node.js, Express, MongoDB Atlas, and Cloudinary. Users can sign up, log in, add their own property listings, and review other listings. Only the listing owner has permission to edit or delete their listings.
 
-### 2. 🏦 [Banking System](https://github.com/Rsccpp/Banking-System)
+🔗 **[Live Demo](https://wanderland-9n7t.onrender.com/)** | 📂 **[Source Code](https://github.com/Rsccpp/Wanderland)**
 
-A Java-based banking application featuring account management, financial transactions, and essential banking operations.
+### 2. 🏦 [Movie Mingle]
 
-### 3. 💊 [InsuraSense](https://github.com/Rsccpp/InsuraSense)
+Movie Mingle is a movie recommendation system where users can simply enter the name of a movie and receive personalized, similar movie suggestions using natural language processing.
+
+🔗 **[Live Demo](https://movie-mingle-8.streamlit.app/)** | 📂 **[Source Code](https://github.com/Rsccpp/Movie-Mingle)**
+
+### 3. 💊 [InsuraSense]
 
 An interactive healthcare insurance prediction application built with Python and Streamlit, leveraging machine learning to estimate insurance premiums.
 
-### 4. 🎬 [Movie Mingle](https://github.com/Rsccpp/Movie-Mingle)
+🔗 📂 **[Source Code](https://github.com/Rsccpp/InsuraSense)**
 
-A content-based movie recommendation system using Natural Language Processing (NLP), TF-IDF vectorization, and similarity techniques to suggest movies.
+### 4. 🎬 [CareerCatalyst]
 
-### 5. 🎮 [Simon Game](https://github.com/Rsccpp/Simon-Game)
+An AI-powered Resume Analyzer and Job Matcher that helps job seekers evaluate their resumes against job descriptions using Natural Language Processing (NLP). 
+
+🔗 📂 **[Source Code](https://github.com/Rsccpp/CareerCatalyst)**
+
+### 5. 🎮 [Simon Game]
 
 An interactive memory-based game developed using HTML, CSS, and JavaScript, featuring dynamic color sequences and user interaction.
+
+🔗 **[Live Demo](https://rsccpp.github.io/Simon-Game/)** | 📂 **[Source Code](https://github.com/Rsccpp/Simon-Game)**
 
 ---
 
@@ -110,10 +120,6 @@ An interactive memory-based game developed using HTML, CSS, and JavaScript, feat
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rsccpp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rsccpp&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -132,4 +138,3 @@ I'm always open to connecting with developers, exchanging ideas, and exploring o
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
 </p>
---
