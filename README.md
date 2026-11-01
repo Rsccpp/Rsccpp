@@ -71,31 +71,31 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🏥 [WanderLand]
+### 1. 🏥 WanderLand
 
 A full-stack Airbnb Clone web application built using Node.js, Express, MongoDB Atlas, and Cloudinary. Users can sign up, log in, add their own property listings, and review other listings. Only the listing owner has permission to edit or delete their listings.
 
 🔗 **[Live Demo](https://wanderland-9n7t.onrender.com/)** | 📂 **[Source Code](https://github.com/Rsccpp/Wanderland)**
 
-### 2. 🏦 [Movie Mingle]
+### 2. 🏦 Movie Mingle
 
 Movie Mingle is a movie recommendation system where users can simply enter the name of a movie and receive personalized, similar movie suggestions using natural language processing.
 
 🔗 **[Live Demo](https://movie-mingle-8.streamlit.app/)** | 📂 **[Source Code](https://github.com/Rsccpp/Movie-Mingle)**
 
-### 3. 💊 [InsuraSense]
+### 3. 💊 InsuraSense
 
 An interactive healthcare insurance prediction application built with Python and Streamlit, leveraging machine learning to estimate insurance premiums.
 
 🔗 📂 **[Source Code](https://github.com/Rsccpp/InsuraSense)**
 
-### 4. 🎬 [CareerCatalyst]
+### 4. 🎬 CareerCatalyst
 
 An AI-powered Resume Analyzer and Job Matcher that helps job seekers evaluate their resumes against job descriptions using Natural Language Processing (NLP). 
 
 🔗 📂 **[Source Code](https://github.com/Rsccpp/CareerCatalyst)**
 
-### 5. 🎮 [Simon Game]
+### 5. 🎮 Simon Says
 
 An interactive memory-based game developed using HTML, CSS, and JavaScript, featuring dynamic color sequences and user interaction.
 
